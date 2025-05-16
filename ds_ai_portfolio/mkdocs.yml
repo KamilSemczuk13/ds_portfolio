@@ -1,0 +1,20 @@
+site_name: Moje projekty
+site_author: Kmail Semczuk
+site_description: >
+  Portfolio moich projektów z Data Science i AI!
+
+theme:
+  name: material
+
+nav:
+  - 🏠 Start: index.md
+  - 📊 Analizy:
+      - 🟢 Obecny projekt:
+          - Titanic: Analizy/Titanic/index.md
+      - 🔙 Poprzednie projekty:
+          - Iris: Analizy/Iris/index.md
+  - 💻 Aplikacje: 
+      - Półmaraton: Aplikacje/Maraton/index.md
+          
+
+
