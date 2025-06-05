@@ -19,7 +19,7 @@
 
 <iframe
     id="content"
-    src="maraton.html"
+    src="maraton2.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>

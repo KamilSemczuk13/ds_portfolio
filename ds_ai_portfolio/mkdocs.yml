@@ -3,18 +3,21 @@ site_author: Kmail Semczuk
 site_description: >
   Portfolio moich projektów z Data Science i AI!
 
+repo_name: KamilSemczuk13/ds_portfolio
+repo_url: https://github.com/KamilSemczuk13/ds_portfolio.git
+
 theme:
   name: material
 
 nav:
   - 🏠 Start: index.md
-  - 📊 Analizy:
-      - 🟢 Obecny projekt:
-          - Titanic: Analizy/Titanic/index.md
-      - 🔙 Poprzednie projekty:
-          - Iris: Analizy/Iris/index.md
+  - 📊 Analizy:    
+     - 🛳️ Titanic (analiza przeżywalności): Analizy/Titanic/index.md
+     - 🌸 Iris (klasyfikacja kwiatów): Analizy/Iris/index.md
   - 💻 Aplikacje: 
-      - Półmaraton: Aplikacje/Maraton/index.md
-          
+      - 🏃‍♂️ Półmaraton: Aplikacje/Maraton/index.md
+      - ✈️ Flight4u – wyszukiwanie lotów: Aplikacje/Loty/index.md
+
+#- 🟢 Obecny projekt: - 🔙 Poprzednie projekty:
 
 
